@@ -1,19 +1,49 @@
-# Gaurav Singh Baghel
+### `// Tech Stack`
 
-Full-Stack Developer focused on building scalable systems and backend-driven applications with real-world impact.
+\<table>
+\<tr>
+\<td width="50%" valign="top">
 
-## Tech Stack
+**☁️ Cloud & DevOps**
 
-* **Frontend:** React, Next.js
-* **Backend:** Node.js, Express, Python
-* **Databases:** MongoDB, PostgreSQL
-* **Tools:** Git, REST APIs
 
-## Focus
 
-Backend systems • Automation • Scalable architecture • Real-world problem solving
 
-## Current Work
 
-Building and refining full-stack systems with emphasis on performance, structure, and production readiness.
+
+
+\
+
+
+\</td> \<td width="50%" valign="top">
+
+**⚙️ Backend & Languages**
+
+
+
+
+
+
+
+\
+
+
+\</td> \</tr> \<tr> \<td width="50%" valign="top">
+
+**📊 Monitoring & Observability**
+
+\
+
+
+\</td> \<td width="50%" valign="top">
+
+**🛠️ Development Tools**
+
+
+
+\
+
+
+\</td> \</tr> \</table>
+
 
