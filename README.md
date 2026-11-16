@@ -1,6 +1,6 @@
 # Hi, I'm Gaurav 👋
 
-Pre-final year ECE student in Indore, India, focused on **Cloud & DevOps**. I build backend systems, automate deployments, and ship projects end to end.
+Final year ECE student in Indore, India, focused on **Cloud & DevOps**. I build backend systems, automate deployments, and ship projects end to end.
 
 ---
 
@@ -35,16 +35,10 @@ Pre-final year ECE student in Indore, India, focused on **Cloud & DevOps**. I bu
 ## 🚀 Featured Projects
 
 - **[gitops-app](https://github.com/MysticBaghel/gitops-app)** – GitOps-based deployment workflow
-- **[ClinicBot](https://github.com/MysticBaghel/ClinicBot)** – AI-powered clinic management system with scheduling and automation
-- **[Human-Resource-Management-System](https://github.com/MysticBaghel/Human-Resource-Management-System)** – HR system built with Django
+- **[gitops-observability](https://github.com/MysticBaghel/gitops-observability)** – Monitoring and observability setup for the GitOps pipeline
+- **[ClinicBot](https://github.com/MysticBaghel/ClinicBot)** – AI-powered clinic management system with scheduling, automation, and real-time workflow handling
+- **[Human-Resource-Management-System](https://github.com/MysticBaghel/Human-Resource-Management-System)** – HR management system built with Django
 - **[AI-Based-ECG-Diagnostic-Assistant](https://github.com/MysticBaghel/AI-Based-ECG-Diagnostic-Assistant)** – Major project: web platform and backend for ECG analysis
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=MysticBaghel&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MysticBaghel&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
